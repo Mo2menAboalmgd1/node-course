@@ -1,0 +1,14 @@
+[
+  {
+    "name": "javaScript",
+    "price": 350
+  },
+  {
+    "name": "html",
+    "price": 100
+  },
+  {
+    "name": "css 250",
+    "price": 250
+  }
+]

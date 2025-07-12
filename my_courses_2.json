@@ -1,0 +1,14 @@
+[
+  {
+    "name": "js",
+    "price": 1000
+  },
+  {
+    "name": "nodejs",
+    "price": 1200
+  },
+  {
+    "name": "angular",
+    "price": 1500
+  }
+]
